@@ -13,7 +13,7 @@ Algoritmo Lea_las_4_calificaciones_de_un_estdiente_y_calcule_el_promedio_pondera
 	Escribir 'Digite el resultado de su examen final'
 	      calculo_1 <-(Parcial_1)*(25/100)
 	      calculo_2 <-(Parcial_2)*(25/100)
-  	      calculo_3 <-(Parcial_3)*(20/100) //no entiendo por que aparece el 16 en letras al lado izquierdo.
+  	      calculo_3 <-(Parcial_3)*(20/100) 
 	      calculo_4 <-(Parcial_4)*(30/100)
 
 notaDefinitiva = (((calculo_1+calculo_2+calculo_3+calculo_4)))
